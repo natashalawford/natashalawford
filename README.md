@@ -1,5 +1,5 @@
 ## Hi there 👋
-![natasha](https://github.com/user-attachments/assets/f484396d-e573-4dab-bc96-671a5605c0ba)
+![natasha_](https://github.com/user-attachments/assets/c70c969f-6577-43d2-b8b9-f916f4ebc092)
 
 <!--
 **natashalawford/natashalawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
