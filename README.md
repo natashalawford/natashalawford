@@ -12,7 +12,7 @@ I'm a third year software engineering student and part-time photographer with a 
 - 🏋🏻‍♀️ If I'm not cooking up something here, I'm lifting heavy at the gym, or perfecting my craft 📸.
 - 🌱 I'm always learning — currently diving into **Machine Learning**, **Computer Vision** and **React Native**.
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 Thanks again for visiting! ⭐  
 Feel free to follow or reach out — I love connecting with others 
 - LinkedIn: [linkedin.com/in/natashalawford](https://linkedin.com/in/natashalawford)
