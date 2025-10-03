@@ -10,7 +10,7 @@ I'm a third year software engineering student and part-time photographer with a 
 ### ✨ Fun Facts
 - 🍵 I code better with Matcha. If you ever need cafe recommendations in the Montreal area, I have some that will change your life 🤫
 - 🏋🏻‍♀️ If I'm not cooking up something here, I'm lifting heavy at the gym, or perfecting my craft 📸.
-- 🌱 I'm always learning — currently diving into **Machine Learning**, **Computer Vision** and **React Native**.
+- 🌱 I'm always learning — currently diving into **Machine Learning**, **Computer Vision** and **Cybersecurity**.
 
 ## 📫 Get in Touch
 Thanks again for visiting! ⭐  
